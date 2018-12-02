@@ -15,14 +15,13 @@
  */
 
  body {
-   padding-top: 60px;
+   padding-top: 100px;
  }
 
 .mx-auto {
   margin: 0 auto;
   width: 800px;
 }
-
 
  footer {
   margin-top: 100px;
