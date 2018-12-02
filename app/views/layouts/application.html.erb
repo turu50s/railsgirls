@@ -13,7 +13,7 @@
 
   <body>
     <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-      <div calss="container">
+      <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
             <span class="sr-only">Toggle navigation</span>
@@ -31,7 +31,9 @@
       </div>
     </nav>
     <div class="container">
-      <%= yield %>
+      <div class="mx-auto">
+        <%= yield %>
+      </div>
     </div>
     <footer>
       <div class="container">

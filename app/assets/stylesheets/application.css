@@ -18,14 +18,22 @@
    padding-top: 100px;
  }
 
+.mx-auto {
+  margin: 0 auto;
+  width: 600px;
+}
+
+
  footer {
-   margin-top: 100px;
+  margin-top: 100px;
  }
 
  table, td, th {
-   vertical-align: middle; border: none;
+  vertical-align: middle;
+  border: none;
+  padding: 0 10px;
  }
 
- ht {
-   border-bottom: 1px solid #DDD;
+ th {
+  border-bottom: 1px solid #DDD;
  }

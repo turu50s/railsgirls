@@ -9,6 +9,8 @@ gem 'rails', '~> 5.2.1', '>= 5.2.1.1'
 gem 'sqlite3'
 # file upload
 gem 'carrierwave'
+# image file resize
+gem 'rmagick'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
